@@ -1,7 +1,7 @@
 
 
 ## Hi, I'm Waheed Ahmad 👋
-### A passionate undergraduate student currently pursuing a 4-year degree in Computer Science. I'm driven by a deep interest in Artificial Intelligence, particularly in the realms of Generative AI, custom GPT development, and AI model fine-tuning. My journey in tech is fueled by a desire to master AI engineering and backend development, primarily using Python and its frameworks.<br>
+### As a passionate undergraduate pursuing a 4-Year degree in Computer Science, I am deeply immersed in the world of Artificial Intelligence. My enthusiasm focuses on Generative AI, custom GPT development, and the intricacies of AI model fine-tuning. I am driven by the ambition to master AI engineering and backend development, leveraging the power of Python and its frameworks to transform innovative ideas into reality.<br>
 ### I am currently focused on:
 Modern Python Fundamentals **|** Generative AI **|** Building Custom GPTs **|** AI Agents and AI Models **|** Deploying AI Tools **|** Numpy **|** Pandas **|** Pytorch **|** Humanoids **|** Fine-tuning LLMs
 
