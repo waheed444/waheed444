@@ -1,7 +1,7 @@
 
 
 ## Hi, I'm Waheed Ahmad 👋
-#### As a passionate undergraduate Computer Science Student.My enthusiasm focuses on Generative AI,custom GPT development and the deploying of AI model fine-tuning. I am driven by the ambition to master AI engineering and backend development with the power of Python language and its frameworks to transform innovative ideas into reality.<br><hr>
+##### As a passionate undergraduate CS student. My enthusiasm focuses on Generative AI,custom GPT development and the deploying of AI model fine-tuning. I am driven by the ambition to master AI engineering and backend development with the power of Python language and its frameworks to transform innovative ideas into reality.<br><hr>
 ### I am currently focused on:
 Modern Python Fundamentals **|** Generative AI **|** Building Custom GPTs **|** AI Agents and AI Models **|** Deploying AI Tools **|** Numpy **|** Pandas **|** Pytorch **|** Humanoids **|** Fine-tuning LLMs <hr>
 
