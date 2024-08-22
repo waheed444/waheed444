@@ -1,11 +1,11 @@
 
 
 ## Hi, I'm Waheed Ahmad 👋
-#### As a passionate undergraduate pursuing a 4-Year degree in Computer Science, I am deeply immersed in the world of Artificial Intelligence. My enthusiasm focuses on Generative AI, custom GPT development, and the intricacies of AI model fine-tuning. I am driven by the ambition to master AI engineering and backend development, leveraging the power of Python and its frameworks to transform innovative ideas into reality.<br>
+#### As a passionate undergraduate pursuing a 4-Year degree in Computer Science, I am deeply immersed in the world of Artificial Intelligence. My enthusiasm focuses on Generative AI, custom GPT development, and the intricacies of AI model fine-tuning. I am driven by the ambition to master AI engineering and backend development, leveraging the power of Python and its frameworks to transform innovative ideas into reality.<br><hr>
 ### I am currently focused on:
-Modern Python Fundamentals **|** Generative AI **|** Building Custom GPTs **|** AI Agents and AI Models **|** Deploying AI Tools **|** Numpy **|** Pandas **|** Pytorch **|** Humanoids **|** Fine-tuning LLMs
+Modern Python Fundamentals **|** Generative AI **|** Building Custom GPTs **|** AI Agents and AI Models **|** Deploying AI Tools **|** Numpy **|** Pandas **|** Pytorch **|** Humanoids **|** Fine-tuning LLMs <hr>
 
-Aside from my technical skills, I am a team player who values communication and collaboration. I believe that working together with my clients and colleagues leads to the best results and I am always open to feedback and suggestions.<br><br>I aim to become a proficient AI engineer and backend developer, utilizing cutting-edge AI technologies and frameworks. I'm constantly learning, experimenting, and building projects that push the boundaries of what's possible in AI.<br><br>In my free time, I enjoy exploring new technologies. I am always looking for new challenges and opportunities to grow as a developer, and I am excited to see what the future holds.
+Aside from my technical skills, I am a team player who values communication and collaboration. I believe that working together with my clients and colleagues leads to the best results and I am always open to feedback and suggestions.<br><br>I aim to become a proficient AI engineer and backend developer, utilizing cutting-edge AI technologies and frameworks. I'm constantly learning, experimenting, and building projects that push the boundaries of what's possible in AI.<br><br>In my free time, I enjoy exploring new technologies. I am always looking for new challenges and opportunities to grow as a developer, and I am excited to see what the future holds.<hr>
 # 💻 Tech Stack:
 ###
 <h2 align="left">I code with</h2>
