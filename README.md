@@ -5,8 +5,9 @@
 ### I am currently focused on:
  Modern Python **|** OOP **|** DSA **|** Numpy **|** Pandas **|** Matplotlib **|** PyTorch **|** Flask **|** Fast APIs **|** Git & Github **|** Docker **|**  Generative AI **|** Building Custom GPT's **|** Develop AI Models **|** Multi AI Agent Systems **|**  AI Powered Microservices Design **|** Fine-tuning LLM's  **|** Humanoid Robotics <hr>
 
-Aside from my technical skills, I am a team player who values communication and collaboration. I believe that working together with my clients and colleagues leads to the best results and I am always open to feedback and suggestions.<br><br>My aim to become a proficient AI engineer and backend developer, utilizing cutting-edge AI technologies and their frameworks.
-<br><br>In my free time, I enjoy exploring new technologies. I am always looking for new challenges and opportunities to grow as a developer, and I am excited to see what the future holds.<hr>
+##### Aside from my technical skills, I am a team player who values communication and collaboration. I believe that working together with my clients and colleagues leads to the best results and I am always open to feedback and suggestions.<br><br>My aim to become a proficient AI engineer and backend developer, utilizing cutting-edge AI technologies and their frameworks.
+<br><br> 
+##### In my free time, I enjoy exploring new technologies. I am always looking for new challenges and opportunities to grow as a developer, and I am excited to see what the future holds.<hr>
 # 💻 Tech Stack:
 ###
 <h2 align="left">I code with</h2>
