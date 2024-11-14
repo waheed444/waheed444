@@ -7,6 +7,7 @@
 #### Aside from my technical skills, I am a team player who values communication and collaboration. I believe that working together with my clients and colleagues leads to the best results and I am always open to feedback and suggestions.<br><br>My aim to become a ‘Certified Cloud-Native Applied Generative AI Engineer’.This journey equips me with expertise in generative AI frameworks, cloud-native development, and the latest AI-driven technologies to build robust, scalable applications.
 <hr>
 # 💻 Tech Stack:
+
 ###
 <h2 align="left">I code with</h2>
 
