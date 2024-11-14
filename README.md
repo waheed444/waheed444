@@ -5,7 +5,7 @@
 ### I am currently focused on:
  Modern Python **|** OOP **|** DSA **|** Numpy **|** Pandas **|** Matplotlib **|** PyTorch **|** Flask **|** Fast APIs **|** Git & Github **|** Docker **|**  Generative AI **|** Building Custom GPT's **|** Develop AI Models **|** Multi AI Agent Systems **|**  AI Powered Microservices Design **|** Fine-tuning LLM's  **|** Humanoid Robotics <hr>
 #### Aside from my technical skills, I am a team player who values communication and collaboration. I believe that working together with my clients and colleagues leads to the best results and I am always open to feedback and suggestions.<br><br>My aim to become a ‘Certified Cloud-Native Applied Generative AI Engineer’.This journey equips me with expertise in generative AI frameworks, cloud-native development, and the latest AI-driven technologies to build robust, scalable applications.
-#### In my free time, I enjoy exploring new technologies. I am always looking for new challenges and opportunities to grow as a developer, and I am excited to see what the future holds.<hr>
+<hr>
 # 💻 Tech Stack:
 ###
 <h2 align="left">I code with</h2>
