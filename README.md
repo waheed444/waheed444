@@ -3,7 +3,7 @@
 ## Hi, I'm Waheed Ahmad 👋
  I am passionate **Computer Science student**. I am currently learning Generative AI,built custom GPT's and development of AI models. I am driven by the ambition to master in **AI engineering** and **backend development** with the power of **Gen AI** , **modern Python** and its frameworks to transform innovative ideas into reality.<br><hr>
 ### I am currently focused on:
- Modern Python **|** Generative AI **|** Agentic AI **|** Building Custom GPT's **|** Fine-tuning LLM's **|** Multi AI Agent Systems **|** Reinforcement Learning **|** AI-Powered Microservices Design **|** Transformer Architectures **|** GANs **|** Cloud-Native AI Deployment **|** LangChain **|** Ethical AI **|** Humanoid Robotics <hr>
+ Modern Python **|** Generative AI & Agentic AI **|** Building Custom GPT's **|** Fine-tuning LLM's **|** Multi AI Agent Systems **|** AI-Powered Microservices Design **|** Transformer Architectures **|** GANs **|** Cloud-Native AI Deployment **|** LangChain **|** CrewAI **|** OpenAI SDK **|** MCP **|** A2A System **|** Open Source LLMs **|** Humanoid Robotics <hr>
 #### Aside from my technical skills, I am a team player who values communication and collaboration. I believe that working together with my clients and colleagues leads to the best results and I am always open to feedback and suggestions.<br><br>My aim to become a ‘Certified Cloud-Native Applied Generative AI Engineer’.This journey equips me with expertise in generative AI frameworks, cloud-native development, and the latest AI-driven technologies to build robust, scalable applications.
 <hr> 
 
